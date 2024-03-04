@@ -21,7 +21,7 @@ This VBA code is designed to streamline email management within Microsoft Outloo
 ⚠️ **Note:** Ensure macro settings in Outlook are configured to allow running macros for this code to work properly.
 
 👥 **Contributors:**
-[Your Name/Team Name]
+Md Arifuzzaman
 
 📌 **Version History:**
 - [Version 1.0]: [Initial Release]
